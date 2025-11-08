@@ -33,7 +33,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [River Adjustment](https://samwhelp.github.io/river-adjustment/) | [GitHub](https://github.com/samwhelp/river-adjustment) |
+| [River Adjustment](https://samwhelp.github.io/riverwm-adjustment/) | [GitHub](https://github.com/samwhelp/riverwm-adjustment) |
 | [Debian River Adjustment](https://samwhelp.github.io/debian-river-adjustment/) | [GitHub](https://github.com/samwhelp/debian-river-adjustment) |
 | [Ubuntu River Adjustment](https://samwhelp.github.io/ubuntu-river-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-river-adjustment) |
 | [Fedora River Adjustment](https://samwhelp.github.io/fedora-river-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-river-adjustment) |
